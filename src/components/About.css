@@ -1,0 +1,56 @@
+.me{
+    background-color: #da5767;
+    padding-top: 10%;
+}
+
+.image1{
+    align-content: center;
+}
+
+.img1{
+    border-radius: 50%;
+    align-items: center;
+    height: 50%;
+}
+
+.me h2{
+    color: #fff;
+}
+
+.me p{
+    color: #fff;
+}
+
+.col-15{
+    padding-bottom: 3rem;
+    text-align: center;
+}
+
+.col-15 h1{
+    font-size: 2cm;
+}
+
+.col-8{
+    padding-top: 10%;
+    background-color:  #df8c96;
+    color: #fff;
+}
+
+.app{
+    text-align: center;
+}
+
+.content{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 15%;
+    padding-top: 15%;
+}
+
+.content p{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-content: center;
+}
